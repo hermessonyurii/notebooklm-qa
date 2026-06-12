@@ -109,4 +109,4 @@ Explique, usando exemplos dos relatórios de Stanford e da Casa Branca, quais s�
 4. Utilize a seção de chats para interagir com o material usando as sugestões de [Prompts Reutilizáveis](#-prompts-reutilizaveis-para-estudos-futuros).
 
 ---
-Feito com 💙 por [Hermeson Yuri](https://github.com/hermessonyurii).
+Feito por [Hermesson Yuri](https://github.com/hermessonyurii).
