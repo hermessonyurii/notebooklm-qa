@@ -4,9 +4,18 @@ Este repositório apresenta o resultado do Desafio de Projeto da **DIO (Digital 
 
 ---
 
+## 🔗 Links do Projeto
+
+* 📂 **Link do Caderno de Estudos (NotebookLM)**: [Acesse o Caderno Temático "Estudos de IA - DIO"](https://notebooklm.google.com/notebook/2473eaa8-8f7e-48b3-872c-739851bd7a8e)
+* 🐙 **Link do Repositório do GitHub**: [https://github.com/hermessonyurii/notebooklm-qa](https://github.com/hermessonyurii/notebooklm-qa)
+
+> ⚠️ **Nota:** Para visualizar o caderno do NotebookLM, certifique-se de estar logado na sua conta Google. O acesso foi configurado como público (Visualizador) para fins de avaliação do projeto.
+
+---
+
 ## 🎯 Contexto e Objetivos
 
-O tema escolhido para este caderno de estudos é **"Direitos, Governança, Ética e Integridade Acadêmica no Uso da Inteligência Artificial"**. 
+O assunto escolhido para este caderno temático é **"Direitos, Governança, Ética e Integridade Acadêmica no Uso da Inteligência Artificial"**. 
 
 ### Nossos Objetivos de Estudo:
 1. **Compreender a Regulação Brasileira**: Analisar como a LGPD, o Código de Defesa do Consumidor (CDC) e o Estatuto da Criança e do Adolescente (ECA) protegem o cidadão brasileiro frente à IA.
